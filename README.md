@@ -116,3 +116,5 @@ Built as a resume-ready project to demonstrate practical software development sk
 ---
 
 ⭐ If you found this project interesting, feel free to fork or contribute!
+
+Note: AI tools were used as a development assistant for debugging and code optimization during this project. All architecture decisions and understanding are my own.
