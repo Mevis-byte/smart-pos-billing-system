@@ -71,6 +71,12 @@ Each transaction includes:
 - Authentication logic
 - GUI development
 - Modular and clean code structure
+  
+---
+
+  ## 🎥 Demo
+
+![Smart POS Demo](demo.gif)
 
 ---
 
