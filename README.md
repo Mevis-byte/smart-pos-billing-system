@@ -74,16 +74,17 @@ Each transaction includes:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run   (For both Windows/Linux)
 
 1. Clone the repository:
-git clone https://github.com/your-username/smart-pos-billing-system.git
+git clone https://github.com/Mevis-byte/smart-pos-billing-system.git
 
 2. Navigate into the project folder:
 cd smart-pos-billing-system
 
 3. Run the program:
 python main.py
+( note : if you have python3 installed run the command as python3 main.py)
 
 ---
 
